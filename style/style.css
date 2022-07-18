@@ -1,0 +1,67 @@
+body {
+  background-color: white;
+}
+
+.intro {
+  font-family: sans-serif;
+  color: black;
+  text-align: center;
+  font-size: 50px;
+  width: 100%;
+  text-align: center;
+}
+
+.material-icons {
+  font-size: 100px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+h3 {
+  font-family: sans-serif;
+  color: black;
+  text-align: left;
+}
+
+.column {
+  padding: 10px;
+  flex: 33.33%;
+}
+
+.row {
+  display: flex;
+}
+
+.row-content {
+  display: flex;
+}
+
+.column-content {
+  padding: 10px;
+  flex: 33.33%;
+}
+
+.logo {
+  text-align: center;
+}
+
+.content-head {
+  font-family: sans-serif;
+  font-style: italic;
+}
+
+.content-child {
+  font-family: sans-serif;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+.content-details {
+  color: grey;
+  font-size: small;
+}
